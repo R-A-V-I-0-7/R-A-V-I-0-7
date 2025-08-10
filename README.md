@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently exploring **Machine Learning and Generative AI**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **fullsatck projects**
 
 - 📫 How to reach me **xavier.110700@gmail.com**
 
